@@ -1,3 +1,5 @@
+Related paper on the method: https://doi.org/10.1029/2025GL118131
+
 Data files: 
 
 Directory with all files: https://cloud.tsinghua.edu.cn/d/40ce68a29da641e2918d/
